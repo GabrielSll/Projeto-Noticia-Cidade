@@ -6,9 +6,9 @@ Projeto de site de Notícias utilizando HTML e CSS: Desenvolvimento Web Completo
 - Basta baixar o código em formato zip.
 - abrir o arquivo index.html em seu navegador de preferência.   
 
-<img src = "screenshot/tela-principal.jng">
-<img src = "screenshot/brasil.jng">
-<img src = "screenshot/fotos.jng">
+<img src = "screenshot/tela-principal.jpg">
+<img src = "screenshot/brasil.jpg">
+<img src = "screenshot/fotos.jpg">
 
 ## Tecnologias e Dependências
 
